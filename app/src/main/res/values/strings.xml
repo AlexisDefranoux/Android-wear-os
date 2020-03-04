@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSDemoLive</string>
+    <string name="latlon">Lat=%1$f, Lon=%2$f</string>
+    <string name="date">date</string>
+</resources>
